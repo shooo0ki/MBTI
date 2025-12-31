@@ -1,0 +1,5 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <path d="M70 120 Q110 80 150 120 T230 120" fill="none" stroke="#0ea5e9" stroke-width="14" opacity="0.8"/>
+  <path d="M70 170 Q110 210 150 170 T230 170" fill="none" stroke="#38bdf8" stroke-width="14" opacity="0.8"/>
+  <path d="M70 210 Q110 250 150 210 T230 210" fill="none" stroke="#0ea5e9" stroke-width="14" opacity="0.8"/>
+</svg>
