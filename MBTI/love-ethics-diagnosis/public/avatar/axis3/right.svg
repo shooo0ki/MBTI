@@ -1,4 +1,6 @@
 <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="80,90 220,90 150,230" fill="#0ea5e9" opacity="0.75"/>
-  <circle cx="150" cy="150" r="26" fill="#0284c7" />
+  <!-- 忠実型: 外へ伸びる矢印 -->
+  <polygon points="110,120 190,120 210,230 90,230" fill="#7c3aed" opacity="0.6"/>
+  <polygon points="130,150 170,150 185,210 115,210" fill="#8b5cf6" opacity="0.85"/>
+  <polygon points="145,180 155,180 150,205" fill="#4c1d95"/>
 </svg>

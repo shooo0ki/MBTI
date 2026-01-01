@@ -1,4 +1,6 @@
 <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-  <path d="M70 70 L150 70 L150 230 L70 230 Z" fill="#22c55e" opacity="0.8" />
-  <circle cx="120" cy="120" r="28" fill="#16a34a" />
+  <!-- 介入型: 近接・指し示し -->
+  <polygon points="85,150 140,140 210,180 150,200" fill="#10b981" opacity="0.65"/>
+  <polygon points="160,145 210,125 215,160 185,165" fill="#0ea972" opacity="0.9"/>
+  <rect x="185" y="120" width="16" height="46" rx="4" fill="#0f766e"/>
 </svg>

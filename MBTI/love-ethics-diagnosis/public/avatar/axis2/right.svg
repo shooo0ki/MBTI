@@ -1,5 +1,6 @@
 <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-  <rect x="60" y="90" width="180" height="24" fill="#0ea5e9" opacity="0.7"/>
-  <rect x="60" y="140" width="180" height="24" fill="#38bdf8" opacity="0.7"/>
-  <rect x="60" y="190" width="180" height="24" fill="#0ea5e9" opacity="0.7"/>
+  <!-- 正直型: 斜めのストライプでフローを表現 -->
+  <polygon points="70,130 230,100 230,130 80,160" fill="#8b5cf6" opacity="0.8"/>
+  <polygon points="70,170 230,140 230,170 80,200" fill="#a855f7" opacity="0.7"/>
+  <polygon points="70,210 230,180 230,210 80,240" fill="#7c3aed" opacity="0.7"/>
 </svg>

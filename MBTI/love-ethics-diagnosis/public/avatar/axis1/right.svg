@@ -1,4 +1,6 @@
 <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-  <path d="M150 70 L230 70 L230 230 L150 230 Z" fill="#0ea5e9" opacity="0.8" />
-  <circle cx="180" cy="180" r="28" fill="#0284c7" />
+  <!-- 放任型: 距離感を示す広がり -->
+  <polygon points="90,170 210,130 230,170 120,210" fill="#38bdf8" opacity="0.5"/>
+  <polygon points="110,150 200,120 210,145 130,175" fill="#0ea5e9" opacity="0.8"/>
+  <circle cx="105" cy="190" r="10" fill="#0b7bbd"/>
 </svg>
